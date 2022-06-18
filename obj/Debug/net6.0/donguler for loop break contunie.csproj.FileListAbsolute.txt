@@ -1,0 +1,15 @@
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\bin\Debug\net6.0\donguler for loop break contunie.exe
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\bin\Debug\net6.0\donguler for loop break contunie.deps.json
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\bin\Debug\net6.0\donguler for loop break contunie.runtimeconfig.json
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\bin\Debug\net6.0\donguler for loop break contunie.dll
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\bin\Debug\net6.0\donguler for loop break contunie.pdb
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.csproj.AssemblyReference.cache
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.AssemblyInfoInputs.cache
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.AssemblyInfo.cs
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.csproj.CoreCompileInputs.cache
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.dll
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\refint\donguler for loop break contunie.dll
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.pdb
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\donguler for loop break contunie.genruntimeconfig.cache
+C:\Users\rashitpine\Documents\Pratikler\donguler for loop break contunie\obj\Debug\net6.0\ref\donguler for loop break contunie.dll
